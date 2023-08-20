@@ -3,6 +3,11 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.logo {
+    display: block;
+    margin: 15px auto;
+}
+
 ::placeholder {
     font-family: 'Mulish', sans-serif;
     font-family: 'Poppins', sans-serif;
